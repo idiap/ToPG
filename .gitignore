@@ -1,0 +1,8 @@
+.gitlint
+.python-version
+.ruff_cache
+.vscode
+.venv
+.ruff_cache/
+**/__pycache__/**
+**.log

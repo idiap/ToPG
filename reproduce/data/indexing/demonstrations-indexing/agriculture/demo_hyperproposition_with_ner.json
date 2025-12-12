@@ -1,0 +1,81 @@
+[
+    {
+        "passage": "One of the most challenging aspects of diversified market farming is keeping your crops healthy. There are two keys to this: First, when you grow a plant under optimum conditions, you are less likely to have problems with insects and diseases. Optimum conditions include choosing appropriate varieties, planting at the right time, planting into healthy soil, using the best spacing, keeping the young plants weed-free, and providing water and fertility as needed by the plant. There is ample scientific evidence that well-grown crops are less attractive to insect pests and more resistant to diseases.\n\nThe other key to insect and disease control is to know and understand the life cycles of each. This is a tall order, when you consider that you might grow 20, 40, or more different crops each year, and each crop has several insects and diseases that can harm it. It becomes even more complicated when you realize that beneficial insects, naturally occurring on your farm, are often the best solution to pest problems. As an ecological farmer, you must recognize the good guys, the bad guys, and when you can let the former take care of the latter and when you must get involved. Once you have determined that you have to take action to save a crop, you must know which methods and products are safest and most appropriate.\n\nMany gardeners assume there is some easy answer to every pest problem, and for those who are not interested in ecological farming, there probably is a broad-spectrum pesticide that will kill everything moving in the garden.",
+        "entities": [
+        "diversified market farming",
+        "crops",
+        "optimum conditions",
+        "plant growth",
+        "appropriate varieties",
+        "healthy soil",
+        "spacing",
+        "weed-free",
+        "water",
+        "fertility",
+        "insects",
+        "diseases",
+        "scientific evidence",
+        "insect pests",
+        "life cycles",
+        "beneficial insects",
+        "ecological farmer",
+        "pest problems",
+        "methods",
+        "products",
+        "gardeners",
+        "ecological farming",
+        "broad-spectrum pesticide",
+        "garden"
+        ],
+        "hyperpropositions": [
+        {
+            "proposition": "Keeping crops healthy is one of the most challenging aspects of diversified market farming.",
+            "entities": ["diversified market farming", "crops"]
+        },
+        {
+            "proposition": "Growing a plant under optimum conditions reduces problems with insects and diseases.",
+            "entities": ["plant growth", "optimum conditions", "insects", "diseases"]
+        },
+        {
+            "proposition": "Optimum conditions for growing a plant include appropriate varieties, planting time, healthy soil, spacing, weed-free status, water, and fertility.",
+            "entities": ["optimum conditions", "plant growth", "appropriate varieties", "healthy soil", "spacing", "weed-free", "water", "fertility"]
+        },
+        {
+            "proposition": "There is scientific evidence that well-grown crops are less attractive to insect pests and more resistant to diseases.",
+            "entities": ["scientific evidence", "crops", "insect pests", "diseases"]
+        },
+        {
+            "proposition": "Understanding the life cycles of insects and diseases is key to their control.",
+            "entities": ["life cycles", "insects", "diseases"]
+        },
+        {
+            "proposition": "A diversified market farmer may grow 20, 40, or more crops each year.",
+            "entities": ["diversified market farming", "crops"]
+        },
+        {
+            "proposition": "Each crop may have several insects and diseases that can harm it.",
+            "entities": ["crops", "insects", "diseases"]
+        },
+        {
+            "proposition": "Beneficial insects on the farm are often the best solution to pest problems.",
+            "entities": ["beneficial insects", "pest problems"]
+        },
+        {
+            "proposition": "An ecological farmer must distinguish between beneficial and harmful insects and decide when intervention is needed.",
+            "entities": ["ecological farmer", "beneficial insects", "insects"]
+        },
+        {
+            "proposition": "When intervention is needed, the ecological farmer must choose the safest and most appropriate methods and products.",
+            "entities": ["ecological farmer", "methods", "products"]
+        },
+        {
+            "proposition": "Many gardeners assume there is an easy answer to every pest problem.",
+            "entities": ["gardeners", "pest problems"]
+        },
+        {
+            "proposition": "For those not practicing ecological farming, a broad-spectrum pesticide may be used to kill all insects in the garden.",
+            "entities": ["ecological farming", "broad-spectrum pesticide", "garden"]
+        }
+        ]
+    }
+]

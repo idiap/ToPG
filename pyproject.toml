@@ -1,0 +1,33 @@
+[project]
+name = "topg"
+version = "0.1.0"
+description = "topg RAG is a hybrid RAG (Retrieval-Augmented Generation) framework that builds a graph from passages, entities, and propositions. It supports three query modes: naive (single-shot retrieval), local (iterative multi-hop reasoning), and global (community-based decomposition and synthesis)."
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "accelerate>=1.6.0,<2",
+    "chromadb>=1.0",
+    "dspy>=2.6.27",
+    "graspologic>=3.4",
+    "json-repair==0.44.0",
+    "langchain-core>=1.0,<2.0",
+    "litellm>=1.64.0",
+    "networkx>=3.4.2",
+    "nltk==3.8.1",
+    "numba>=0.61.2",
+    "numpy>=1.26.4,<2.0.0",
+    "pre-commit>=4.1.0,<5",
+    "pydantic>=2.10.6,<3",
+    "pydantic-core==2.33.1",
+    "python-dotenv>=1.0.1,<2",
+    "reuse>=5.0.2",
+    "sentence-transformers>=3.4.1,<4",
+    "tqdm>=4.0,<5",
+]
+
+[dependency-groups]
+dev = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["topg*"]

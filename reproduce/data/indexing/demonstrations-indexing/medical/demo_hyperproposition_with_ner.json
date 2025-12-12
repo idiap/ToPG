@@ -1,0 +1,219 @@
+[
+{
+    "passage": "Biomarker testing Biomarkers are targetable features of a cancer. Many are mutations (changes) in the DNA of the cancer cells. For thyroid cancers with 1 or more specific biomarkers, targeted therapy or immunotherapy may be a treatment option if needed. Biomarker testing involves analyzing a piece of tumor tissue in a lab or testing a sample of blood. Testing for the following biomarkers is recommended for recurrent, advanced, or metastatic cancers that can't be treated with Radioactive Iodine therapy: h ALK gene fusion NTRK gene fusion BRAF gene mutations RET gene fusion (found in some medullary thyroid cancers) Mismatch repair deficiency (dMMR) Microsatellite instability-high (MSI-H) Tumor mutational burden-high (TMB-H) Your provider may test for these individually or as part of a group. Testing for many biomarkers at one time is called nextgeneration sequencing (NGS). Cancer that returns to the neck If the cancer can be removed based on its size and location, surgery is the preferred treatment. For cancers that take up iodine, treatment with Radioactive Iodine therapy will also be considered. But, treatment isn't always needed. If the cancer isn't getting worse and isn't close to any critical structures, your provider may recommend close monitoring instead of treatment. If the cancer can't be removed with surgery, doesn’t take up iodine, and is getting worse (progressing), treatment with radiation therapy, targeted therapy, or both may be an option. The preferred targeted therapy for cancer that can’t be removed with surgery and is progressing is lenvatinib (Lenvima).",
+    "entities": [
+        "Biomarker testing",
+        "Thyroid cancer",
+        "Targeted therapy",
+        "Immunotherapy",
+        "Radioactive Iodine therapy",
+        "ALK",
+        "NTRK",
+        "BRAF",
+        "RET",
+        "Medullary thyroid cancer",
+        "Lenvatinib",
+        "Mismatch repair deficiency (dMMR)",
+        "Nextgeneration sequencing (NGS)",
+        "Iodine",
+        "Microsatellite instability-high (MSI-H)",
+        "Tumor mutational burden-high (TMB-H)",
+        "Radiation therapy",
+        "Surgery",
+        "Neck"
+    ],
+    "hyperpropositions": [
+        {
+          "proposition": "Biomarker testing analyzes tumor tissue or blood to identify biomarkers in Thyroid cancers.",
+          "entities": ["Biomarker testing", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarkers are targetable features of Thyroid cancers that may enable treatment with Targeted therapy or Immunotherapy if needed.",
+          "entities": ["Thyroid cancer", "Targeted therapy", "Immunotherapy"]
+        },
+        {
+          "proposition": "Biomarker testing is recommended for recurrent, advanced, or metastatic Thyroid cancers that can't be treated with Radioactive Iodine therapy.",
+          "entities": ["Biomarker testing", "Thyroid cancer", "Radioactive Iodine therapy"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for ALK gene fusion in Thyroid cancers.",
+          "entities": ["Biomarker testing", "ALK", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for NTRK gene fusion in Thyroid cancers.",
+          "entities": ["Biomarker testing", "NTRK", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for BRAF gene mutations in Thyroid cancers.",
+          "entities": ["Biomarker testing", "BRAF", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for RET gene fusion, which is found in some Medullary thyroid cancers.",
+          "entities": ["Biomarker testing", "RET", "Medullary thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for Mismatch repair deficiency (dMMR) in Thyroid cancers.",
+          "entities": ["Biomarker testing", "Mismatch repair deficiency (dMMR)", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for Microsatellite instability-high (MSI-H) in Thyroid cancers.",
+          "entities": ["Biomarker testing", "Microsatellite instability-high (MSI-H)", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Biomarker testing includes testing for Tumor mutational burden-high (TMB-H) in Thyroid cancers.",
+          "entities": ["Biomarker testing", "Tumor mutational burden-high (TMB-H)", "Thyroid cancer"]
+        },
+        {
+          "proposition": "Provider may test for ALK gene fusion, NTRK gene fusion, BRAF gene mutations, RET gene fusion, Mismatch repair deficiency (dMMR), Microsatellite instability-high (MSI-H), and Tumor mutational burden-high (TMB-H) individually or together.",
+          "entities": ["ALK", "NTRK", "BRAF", "RET", "Mismatch repair deficiency (dMMR)", "Microsatellite instability-high (MSI-H)", "Tumor mutational burden-high (TMB-H)"]
+        },
+        {
+          "proposition": "Testing for many Biomarkers at one time is called Nextgeneration sequencing (NGS).",
+          "entities": ["Biomarkers", "Nextgeneration sequencing (NGS)"]
+        },
+        {
+          "proposition": "If Thyroid cancers return to the neck and can be removed based on size and location, surgery is the preferred treatment.",
+          "entities": ["Thyroid cancers", "Neck", "Surgery"]
+        },
+        {
+          "proposition": "If Thyroid cancers that return to the neck take up iodine, Radioactive Iodine therapy will be considered as treatment.",
+          "entities": ["Thyroid cancers", "Neck", "Iodine", "Radioactive Iodine therapy"]
+        },
+        {
+          "proposition": "If Thyroid cancers that return to the neck can't be removed with surgery, don’t take up iodine, and are progressing, Radiation therapy, Targeted therapy, or both may be treatment options.",
+          "entities": ["Thyroid cancers", "Neck", "Surgery", "Iodine", "Radiation therapy", "Targeted therapy"]
+        },
+        {
+          "proposition": "The preferred Targeted therapy for Thyroid cancers that can’t be removed with surgery and are progressing is Lenvatinib (Lenvima).",
+          "entities": ["Targeted therapy", "Thyroid cancers", "Surgery", "Lenvatinib"]
+        },
+        {
+          "proposition": "Provider may recommend close monitoring instead of treatment if Thyroid cancers that return to the neck are not getting worse and are not close to critical structures.",
+          "entities": ["Thyroid cancers", "Neck"]
+        }
+      ]
+},
+{
+    "passage": "There are 3 main types of lymphocytes: B lymphocytes or B cells make antibodies. An antibody is a protein that specifically targets infections or cancer cells and recruits other parts of the immune system. T lymphocytes or T cells help fight infections, cancer, and control immune responses. Natural killer (NK) cells can kill tumor cells or virus-infected cells. Follicular lymphoma starts in mature B cells. Follicular lymphoma Follicular lymphoma (FL) is a common type of non-Hodgkin lymphoma (NHL). It is a slow-dividing, slow-growing B-cell lymphoma that typically forms tumors in lymph nodes. However, Follicular lymphoma can form tumors in other parts of the body such as the bone marrow. This is called extranodal (outside of the lymph node) disease. Not everyone with Follicular lymphoma needs treatment right away. How does Follicular lymphoma develop? In lymph nodes, temporary germinal centers (GCs) form in response to an immune stressor such as infection or inflammation.",
+    "entities": [
+    "Lymphocytes",
+    "B lymphocytes",
+    "B cells",
+    "Antibodies",
+    "T lymphocytes",
+    "T cells",
+    "Natural killer cells",
+    "Tumor cells",
+    "Virus-infected cells",
+    "Follicular lymphoma",
+    "Non-Hodgkin lymphoma",
+    "B-cell lymphoma",
+    "Lymph nodes",
+    "Bone marrow",
+    "Extranodal disease",
+    "Germinal centers",
+    "Immune system",
+    "Infection",
+    "Inflammation"
+  ],
+  "hyperpropositions":[
+    {
+      "proposition": "B lymphocytes or B cells produce antibodies.",
+      "entities": ["B lymphocytes", "B cells", "Antibodies"]
+    },
+    {
+        "proposition": "Antibodies are proteins that target infections or Tumor cells and recruit other parts of the immune system.",
+        "entities": ["Antibodies", "Infection", "Tumor cells", "Immune system"]
+    },
+    {
+      "proposition": "T lymphocytes or T cells help fight infections, Tumor cells, and control immune responses.",
+      "entities": ["T lymphocytes", "T cells", "Infection", "Tumor cells", "Immune system"]
+    },
+    {
+      "proposition": "Natural killer (NK) cells can kill Tumor cells or Virus-infected cells.",
+      "entities": ["Natural killer cells", "Tumor cells", "Virus-infected cells"]
+    },
+    {
+      "proposition": "Follicular lymphoma starts in mature B cells.",
+      "entities": ["Follicular lymphoma", "B cells"]
+    },
+    {
+      "proposition": "Follicular lymphoma (FL) is a type of Non-Hodgkin lymphoma (NHL).",
+      "entities": ["Follicular lymphoma", "Non-Hodgkin lymphoma"]
+    },
+    {
+      "proposition": "Follicular lymphoma is a slow-dividing, slow-growing B-cell lymphoma.",
+      "entities": ["Follicular lymphoma", "B-cell lymphoma"]
+    },
+    {
+      "proposition": "Follicular lymphoma typically forms Tumor cells in lymph nodes.",
+      "entities": ["Follicular lymphoma", "Tumor cells", "Lymph nodes"]
+    },
+    {
+      "proposition": "Follicular lymphoma can also form Tumor cells in bone marrow, which is called extranodal disease.",
+      "entities": ["Follicular lymphoma", "Tumor cells", "Bone marrow", "Extranodal disease"]
+    },
+    {
+      "proposition": "In Lymph nodes, germinal centers (GCs) form in response to an immune stressor such as infection or inflammation.",
+      "entities": ["Lymph nodes", "Germinal centers", "Infection", "Inflammation"]
+    }
+  ]
+},
+{
+    "passage": "Often, no further treatment is needed after a polypectomy. In other cases, surgery (resection) of a bigger piece of the colon is needed. This depends on: The size and shape of the polyp (pedunculated or sessile), The polypectomy results, and The results of testing the removed tissue. Before deciding whether resection is needed after a polypectomy, your doctor will review the results of testing with you and discuss your options. Invasive cancer For cancers not found early enough to be removed by polypectomy, colectomy (colon surgery) is needed. Surgery is only an option if the colon tumor can be completely removed. If you cannot have surgery first, see page Colectomy A colectomy is a surgery that removes the part of the colon with cancer. After the cancerous part is removed, the two healthy ends of the remaining colon are sewn or stapled together. At least 12 lymph nodes near the tumor will be removed and tested for cancer, in addition to any nodes that look abnormal to the surgeon. A colectomy can be done in two ways. The open method removes tumor tissue through a Colectomy Surgery for colon cancer is called colectomy. It involves removing the cancerous part of the colon.",
+    "entities": [
+        "Polypectomy",
+        "Surgery",
+        "Resection",
+        "Colon",
+        "Polyp",
+        "Invasive cancer",
+        "Colectomy",
+        "Colon surgery",
+        "Colon tumor",
+        "Cancer",
+        "Lymph nodes",
+        "Tumor tissue",
+        "Colectomy Surgery",
+        "Colon cancer"
+    ],
+    "hyperpropositions": [
+        {
+          "proposition": "Polypectomy is a procedure to remove a polyp from the colon.",
+          "entities": ["Polypectomy", "Polyp", "Colon"]
+        },
+        {
+          "proposition": "After a polypectomy, often no further surgery is needed for the colon.",
+          "entities": ["Polypectomy", "Surgery", "Colon"]
+        },
+        {
+          "proposition": "Resection, which is a type of surgery, may be needed if the polyp in the colon is large or sessile rather than pedunculated.",
+          "entities": ["Resection", "Surgery", "Polyp", "Colon"]
+        },
+        {
+          "proposition": "Deciding whether to do resection after polypectomy depends on the polypectomy results and testing of removed tumor tissue.",
+          "entities": ["Resection", "Polypectomy", "Tumor tissue"]
+        },
+        {
+          "proposition": "Invasive cancer in the colon that cannot be fully removed by polypectomy requires colectomy.",
+          "entities": ["Invasive cancer", "Colon", "Polypectomy", "Colectomy"]
+        },
+        {
+          "proposition": "Colectomy is a type of colon surgery that removes the cancerous part of the colon containing the colon tumor.",
+          "entities": ["Colectomy", "Colon surgery", "Colon", "Colon tumor"]
+        },
+        {
+          "proposition": "During colectomy, at least 12 lymph nodes near the colon tumor are removed and tested for cancer.",
+          "entities": ["Colectomy", "Lymph nodes", "Colon tumor", "Cancer"]
+        },
+        {
+          "proposition": "Colectomy can be performed using the open method to remove tumor tissue from the colon.",
+          "entities": ["Colectomy", "Tumor tissue", "Colon"]
+        },
+        {
+          "proposition": "Colectomy Surgery for colon cancer involves removing the Cancerous part of the colon.",
+          "entities": ["Colectomy Surgery", "Colon cancer", "Colon"]
+        }
+      ]
+}
+]

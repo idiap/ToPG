@@ -1,0 +1,175 @@
+[
+    {
+        "passage": "ARTICLE 5 - OCCUPANCY AND USE\n\n Section 5.01. Use. Tenant shall use the Leased Premises for the Permitted Use and for no other purpose without the prior written consent of Landlord. Section 5.02. Covenants of Tenant Regarding Use. (a) Tenant shall: (i) use and maintain the Leased Premises and conduct its business thereon in a safe, careful, reputable and lawful manner; (ii) comply with all covenants and restrictions that encumber the Building and with all applicable laws, rules, regulations, orders, ordinances, codes, directions, and requirements of any governmental authority or agency with jurisdiction over the Building or the Park, now in force or which may hereafter be in force (collectively, the “Laws”), including, without limitation, those Laws which shall impose upon Landlord or Tenant any duty with respect to or triggered by a change in the use or occupation of, or any improvement or alteration to, the Leased Premises; and (iii) comply with and obey all reasonable directions, rules, and regulations of Landlord, including the Building rules and regulations attached hereto as Exhibit D and made a part hereof (the “Rules and Regulations”), as such Rules and Regulations may be modified from time to time by Landlord upon reasonable notice to Tenant. Notwithstanding any provision of this paragraph or any other provision of the Rules and Regulations to the contrary, Landlord hereby agrees that all such rules and regulations, and any changes thereto, shall be non-discriminatory in substance to the tenants of the Building. Landlord may, however, grant exceptions to the Rules and Regulations for particular tenants in particular instances without being deemed to be in violation of the immediately preceding sentence; provided, however, that: (A) if Landlord permanently excuses any other tenant of the Building from complying with any of the Rules and Regulations, then, until such time as such excuse ends, Tenant shall also not be obligated to comply with the applicable Rules and Regulations; and (B) Landlord shall not excuse any other tenant from complying with any Rule and Regulation if Landlord reasonably believes that such excuse will have a material adverse impact on Tenant’s use of the Leased Premises. In the event of a conflict between the Rules and Regulations and the provisions of this Lease, the provisions of this Lease shall govern and control.",
+        "entities": [
+            "Tenant",
+            "Leased Premises",
+            "Permitted Use",
+            "Landlord",
+            "Building",
+            "Laws",
+            "Rules and Regulations",
+            "Exhibit D",
+            "Governmental Authority",
+            "Park"
+        ],
+        "hyperpropositions": [
+            {
+                "proposition": "Tenant shall use the Leased Premises only for the Permitted Use and not for any other purpose without prior written consent from Landlord.",
+                "entities": ["Tenant", "Leased Premises", "Permitted Use", "Landlord"]
+            },
+            {
+                "proposition": "Tenant shall use and maintain the Leased Premises in a safe, careful, reputable, and lawful manner.",
+                "entities": ["Tenant", "Leased Premises"]
+            },
+            {
+                "proposition": "Tenant shall comply with all covenants, restrictions, and applicable laws, rules, regulations, and governmental requirements affecting the Building or Park.",
+                "entities": ["Tenant", "Building", "Park", "Laws", "Governmental Authority"]
+            },
+            {
+                "proposition": "Tenant shall comply with and follow all reasonable directions, rules, and regulations issued by Landlord, including those in the Rules and Regulations attached as Exhibit D.",
+                "entities": ["Tenant", "Landlord", "Rules and Regulations", "Exhibit D"]
+            },
+            {
+                "proposition": "Landlord agrees that the Rules and Regulations and any changes thereto shall be non-discriminatory to tenants, though exceptions may be granted for particular tenants without violating this principle.",
+                "entities": ["Landlord", "Rules and Regulations", "Tenant"]
+            },
+            {
+                "proposition": "If Landlord permanently excuses another tenant from a Rule or Regulation, Tenant is also excused from compliance until such excuse ends; however, Landlord may not excuse another tenant if it would materially adversely affect Tenant's use.",
+                "entities": ["Tenant", "Landlord", "Rules and Regulations"]
+            },
+            {
+                "proposition": "In case of a conflict between the Lease provisions and the Rules and Regulations, the Lease provisions control.",
+                "entities": ["Lease", "Rules and Regulations"]
+            }
+        ]
+    },
+    {
+        "passage": "Benefit-risk relationship of such product and to provide support for filing for Regulatory Approval and for such product's labeling and summary of product characteristics, as more fully defined in 21 CFR §312.21(c) or comparable regulations in any country or jurisdiction outside the U.S., and any amended or successor regulations. For the sake of clarity, with respect to what is commonly called a phase II/III study, the Phase III Clinical Trial definition is met upon\n[***], as further defined in Federal Regulation 21 C.F.R. §312.21(c) and its foreign equivalents. 1.57 \"Phase IV Clinical Trial\" means a clinical study in humans initiated in a country after receipt of Regulatory Approval for a biopharmaceutical product in such country, usually within or in support of the approved product labeling. 1.58 \"Pre-Marketing\" means all sales and marketing activities undertaken prior to and in preparation for the launch of the Product. Pre-Marketing shall include market research, key opinion leader development, advisory boards, medical education, disease-related public relations, health care economic studies, sales force training and other pre-launch activities prior to the First Commercial Sale of the Product in a given country or other regulatory jurisdiction. 1.59 \"Pricing Approval\" means, with respect to any country where a Governmental Authority authorizes reimbursement or access, or approves or determines pricing, for biopharmaceutical products, receipt (or, if required to make such authorization, approval of determination effective publication) of such reimbursement or access authorization or pricing approval or determination (as the case may be). 1.60 \"Product\" means any biopharmaceutical product containing or comprising\n(i) the Antibody; and (ii) any Variant of the Antibody that: (a) [***] and (b)\n[***]; provided, that a Product does not include any Active Ingredient that is\n[***], other than the Antibody as described in the foregoing subsections (i) and\n(ii). For clarity, Product excludes: (1) [***]; (2) [***]; (3) [***]; (4) [***];\n(5) [***]; or (6) [***]. 1.61 \"Product Approval\" means the approval by a Governmental Authority necessary for the marketing and sale of the Product in a given country or regulatory jurisdiction, which may include the approval of an MAA (but shall not include any Pricing Approvals).",
+        "entities": [
+            "Phase III Clinical Trial",
+            "Phase IV Clinical Trial",
+            "Pre-Marketing",
+            "Pricing Approval",
+            "Product",
+            "Product Approval",
+            "Regulatory Approval",
+            "21 CFR §312.21(c)",
+            "Governmental Authority",
+            "Biopharmaceutical Product",
+            "Product Labeling",
+            "First Commercial Sale",
+            "Antibody",
+            "Variant of the Antibody",
+            "Active Ingredient",
+            "MAA",
+            "Market Research",
+            "Key Opinion Leader Development",
+            "Advisory Boards",
+            "Medical Education",
+            "Sales Force Training",
+            "Health Care Economic Studies"
+        ],
+        "hyperpropositions": [
+            {
+                "proposition": "Phase III Clinical Trials are defined and regulated according to 21 CFR §312.21(c) and comparable foreign regulations to support filing for Regulatory Approval.",
+                "entities": ["Phase III Clinical Trial", "21 CFR §312.21(c)", "Regulatory Approval"]
+            },
+            {
+                "proposition": "Phase IV Clinical Trials are clinical studies in humans initiated after receipt of Regulatory Approval for a biopharmaceutical product in a country.",
+                "entities": ["Phase IV Clinical Trial", "Regulatory Approval", "Biopharmaceutical Product"]
+            },
+            {
+                "proposition": "Phase IV Clinical Trials are usually conducted within or in support of approved Product Labeling.",
+                "entities": ["Phase IV Clinical Trial", "Product Labeling"]
+            },
+            {
+                "proposition": "Pre-Marketing includes all sales and marketing activities undertaken prior to the First Commercial Sale of the Product in a regulatory jurisdiction.",
+                "entities": ["Pre-Marketing", "First Commercial Sale", "Product"]
+            },
+            {
+                "proposition": "Pre-Marketing activities include Market Research, Key Opinion Leader Development, Advisory Boards, Medical Education, Sales Force Training, and Health Care Economic Studies.",
+                "entities": ["Pre-Marketing", "Market Research", "Key Opinion Leader Development", "Advisory Boards", "Medical Education", "Sales Force Training", "Health Care Economic Studies"]
+            },
+            {
+                "proposition": "Pricing Approval means authorization from a Governmental Authority for reimbursement, access, or pricing determination for biopharmaceutical products.",
+                "entities": ["Pricing Approval", "Governmental Authority", "Biopharmaceutical Product"]
+            },
+            {
+                "proposition": "A Product is defined as any biopharmaceutical product containing or comprising the Antibody or any qualifying Variant of the Antibody.",
+                "entities": ["Biopharmaceutical Product", "Antibody", "Variant of the Antibody"]
+            },
+            {
+                "proposition": "A Product does not include certain specified Active Ingredients other than the Antibody and its qualifying variants.",
+                "entities": ["Active Ingredient", "Antibody"]
+            },
+            {
+                "proposition": "Product Approval means approval by a Governmental Authority necessary for marketing and sale of the Product in a regulatory jurisdiction.",
+                "entities": ["Product Approval", "Governmental Authority"]
+            },
+            {
+                "proposition": "Product Approval may include approval of an MAA but excludes Pricing Approvals.",
+                "entities": ["Product Approval", "MAA", "Pricing Approval"]
+            }
+        ]
+    },
+    {
+        "passage": "“Interest Expense” means for any fiscal period, interest expense (whether cash or non-cash) determined in accordance with GAAP for the relevant period ending on such date, including, in any event, interest expense with respect to any Credit Extension and other Indebtedness of Borrower, including, without limitation or duplication, all commissions, discounts, or related amortization and other fees and charges with respect to letters of credit and bankers’ acceptance financing and the net costs associated with interest rate swap, cap, and similar arrangements, and the interest portion of any deferred payment obligation (including leases of all types). “Interest Payment Date” means, with respect to any LIBOR Advance, the last day of each Interest Period applicable to such LIBOR Advance and, with respect to Prime Rate Advances, the Payment Date. “Interest Period” means, as to any LIBOR Advance, the period commencing on the date of such LIBOR Advance, or on the conversion/continuation date on which the LIBOR Advance is converted into or continued as a LIBOR Advance, and ending on the date that is one (1), two (2), or three (3) months thereafter, in each case as Borrower may elect in the applicable Notice of Borrowing or Notice of Conversion/Continuation; provided, however, that (a) no Interest Period with respect to any LIBOR Advance shall end later than the Revolving Line Maturity Date, (b) the last day of an Interest Period shall be determined in accordance with the practices of the LIBOR interbank market as from time to time in effect, (c) if any Interest Period would otherwise end on a day that is not a Business Day, that Interest Period shall be extended to the following Business Day unless, in the case of a LIBOR Advance, the result of such extension would be to carry such Interest Period into another calendar month, in which event such Interest Period shall end on the preceding Business Day, (d) any Interest Period pertaining to a LIBOR Advance that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar month at the end of such Interest Period) shall end on the last Business Day of the calendar month at the end of such Interest Period, and (e) interest shall accrue from and include the first Business Day of an Interest Period but exclude the last Business Day of such Interest Period.",
+        "entities": [
+            "Interest Expense",
+            "GAAP",
+            "Credit Extension",
+            "Indebtedness",
+            "Borrower",
+            "Commissions",
+            "Discounts",
+            "Amortization",
+            "Fees and charges",
+            "Letters of credit",
+            "Bankers’ acceptance financing",
+            "Interest rate swap",
+            "Cap arrangements",
+            "Deferred payment obligation",
+            "Leases",
+            "Interest Payment Date",
+            "LIBOR Advance",
+            "Interest Period",
+            "Prime Rate Advances",
+            "Notice of Borrowing",
+            "Notice of Conversion/Continuation",
+            "Revolving Line Maturity Date",
+            "Business Day",
+            "LIBOR interbank market"
+        ],
+        "hyperpropositions": [
+            {
+                "proposition": "Interest Expense for any fiscal period is determined in accordance with GAAP and includes interest on any Credit Extension, Indebtedness, and related fees, commissions, discounts, amortization, and deferred payment obligations.",
+                "entities": ["Interest Expense", "GAAP", "Credit Extension", "Indebtedness", "Commissions", "Discounts", "Amortization", "Fees and charges", "Deferred payment obligation"]
+            },
+            {
+                "proposition": "Interest Payment Date for a LIBOR Advance is the last day of its applicable Interest Period; for Prime Rate Advances, it is the Payment Date.",
+                "entities": ["Interest Payment Date", "LIBOR Advance", "Interest Period", "Prime Rate Advances"]
+            },
+            {
+                "proposition": "An Interest Period for a LIBOR Advance starts on the date of the Advance or its conversion/continuation and ends one, two, or three months later as elected by the Borrower in the applicable notice.",
+                "entities": ["Interest Period", "LIBOR Advance", "Borrower", "Notice of Borrowing", "Notice of Conversion/Continuation"]
+            },
+            {
+                "proposition": "No Interest Period for a LIBOR Advance may end after the Revolving Line Maturity Date.",
+                "entities": ["Interest Period", "LIBOR Advance", "Revolving Line Maturity Date"]
+            },
+            {
+                "proposition": "If an Interest Period would end on a day that is not a Business Day, it is extended to the following Business Day unless it would carry the period into another calendar month, in which case it ends on the preceding Business Day.",
+                "entities": ["Interest Period", "Business Day", "LIBOR Advance"]
+            },
+            {
+                "proposition": "Interest for an Interest Period accrues from and includes the first Business Day of the period but excludes the last Business Day.",
+                "entities": ["Interest Period", "Business Day"]
+            },
+            {
+                "proposition": "Interest Periods starting on the last Business Day of a calendar month end on the last Business Day of the month at the end of such period.",
+                "entities": ["Interest Period", "Business Day"]
+            }
+        ]
+    }
+]

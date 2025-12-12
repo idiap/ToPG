@@ -1,0 +1,20 @@
+[
+    {
+        "passage": "All creation rejoices because a few tears of mother Nature have brought joy and happiness to all living beings, from the smallest blade of grass to the majestic palm; from the creeping worm to man, who proudly titles himself the lord of creation. Yucatan has no rich metallic mines, but its wealth of vegetable productions is immense. Large forests of mahogany, cedar, zapotillo trees cover vast extents of land in the eastern and southern portions of the peninsula; whilst patches of logwood and mora, many miles in length, grow near the coast. The wood is to-day cut down and exported by the Indians of Santa Cruz through their agents at Belize. Coffee, vanilla, tobacco, india-rubber, rosins of various kinds, copal in particular, all of good quality, abound in the country, but are not cultivated on account of its unsettled state; the Indians retaining possession of the most fertile territories where these rich products are found. The whites have been reduced to the culture of the Hennequen plant (agave sisalensis) in order to subsist. It is the only article of commerce that grows well on the stony soil to which they are now confined. The filament obtained from the plant, and the objects manufactured from it constitute the principal article of export; in fact the only source of wealth of the Yucatecans.",
+        "entities": [
+          "Yucatán", "Mother Nature",
+          "metallic mines", "wealth", "vegetable", "forests", "mahogany", "cedar", "zapotillo trees",
+          "coast", "logwood", "mora", "wood", "Indians of Santa Cruz",
+          "Belize", "coffee", "vanilla", "tobacco", "india-rubber", "rosins", "copal",
+          "Indians", "The whites of Yucatán", "Hennequen plant", "agave sisalensis",
+          "Yucatecans"
+        ]
+      },
+      {
+        "passage": "From 1875 to 1877 he was Chief Commissioner of Oude. The position Inglis made for himself in India, in yet early life, is to be gauged by a letter written in 1846 by Sir Frederick Currie, who was then Commissioner of Lahore. He had married Mrs. Inglis’ sister Katherine. ‘We have applied to Mr. Thomasen (Lieutenant-Governor of the N.W.P.) for young civilians for the work which is now before us, and we must take several with us into the Punjab. One whom he strongly recommends is Inglis at Agra. I will copy what he says about him. Sir Henry Hardinge (the Governor-General) has not seen the letter yet. “Another man who might suit you is Inglis at Agra; an assistant on £400, acting as joint magistrate which gives him one hundred more. Active, energetic, conciliating to natives, fine-tempered, and thoroughly honest in all his works. I am not sure that he is not as good a man as you can have. I shall be glad to hear that you send for him.”’ The letter was addressed to Inglis’ eighteen-year-old bride, and Sir Frederick goes on:-- ‘Shall I send for him or not? I am almost sure I should have done so, had I not heard of your getting hold of his heart. We don’t want heartless men, but really you have no right to keep such a man from us.'",
+        "entities": [
+          "Inglis", "Chief Commissioner", "Oude", "Sir Frederick Currie", "Commissioner", "Lahore",
+          "Sir Frederick Currie's letter", "Inglis' bride", "Katherine", "Mr. Thomasen", "Lieutenant-Governor",
+          "N.W.P.", "Agra", "assistant", "joint magistrate", "Sir Henry Hardinge", "Governor-General", "Punjab"]
+      }
+]

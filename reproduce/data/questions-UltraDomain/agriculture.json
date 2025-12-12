@@ -1,0 +1,162 @@
+{
+    "User 1: Hobbyist Beekeeper": {
+        "Task 1: Understanding Beekeeping Basics": [
+            "Why is the commitment level crucial for successful beekeeping?",
+            "What common mistakes do new beekeepers make that can lead to failure?",
+            "How does beekeeping activity vary by region and season?",
+            "How important is networking with other beekeepers and organizations?"
+        ],
+        "Task 2: Managing Beehive Health": [
+            "How can a beekeeper effectively control mite populations?",
+            "What sustainable practices can be applied to maintain bee health?",
+            "How does disease in a beehive affect the entire colony?",
+            "What is the role of queen bees in maintaining hive productivity and health?"
+        ],
+        "Task 3: Harvesting Honey": [
+            "How can one ensure the purity and quality of harvested honey?",
+            "What are the ethical considerations when extracting honey from hives?",
+            "How does the method of honey extraction impact the colony?",
+            "What factors influence honey taste and quality?"
+        ],
+        "Task 4: Transitioning to Organic Beekeeping": [
+            "How does organic status affect the marketability of bee products?",
+            "What practices are considered non-organic and need to be avoided?",
+            "How can beekeepers maintain hive health without synthetic chemicals?",
+            "What are the long-term benefits of organic beekeeping?"
+        ],
+        "Task 5: Educating Others About Beekeeping": [
+            "How can beekeeping benefits the environment and biodiversity?",
+            "What role does education play in sustainable beekeeping practices?",
+            "How can hobbyists contribute to beekeeping research and development?",
+            "What misconceptions about beekeeping should educators address?"
+        ]
+    },
+    "User 2: Small-Scale Market Farmer": {
+        "Task 1: Planning Farm Production": [
+            "How does season extension technology impact production cycles?",
+            "What role does crop diversity play in farm success?",
+            "How can a farmer assess market demand effectively?",
+            "What strategies can be employed to optimize land use?"
+        ],
+        "Task 2: Implementing Sustainable Practices": [
+            "What are some simple, cost-effective sustainable farming methods?",
+            "How does soil health influence overall farm productivity?",
+            "What role do cover crops play in sustainability?",
+            "What are the challenges in transitioning to fully sustainable farming models?"
+        ],
+        "Task 3: Marketing Farm Products": [
+            "How can farmers utilize online platforms to expand their market reach?",
+            "What factors are crucial in establishing a farm brand identity?",
+            "How can farmers develop a loyal customer base?",
+            "What role do community-supported agriculture (CSA) programs play in marketing?"
+        ],
+        "Task 4: Managing Farm Operations": [
+            "What tools can assist farmers in managing record-keeping and finances?",
+            "How does farm size influence management practices?",
+            "What are the key components of successful farm management?",
+            "How important is it for farmers to adapt to changing environmental conditions?"
+        ],
+        "Task 5: Exploring Niche Markets": [
+            "How can farmers identify niche market opportunities?",
+            "What trends are influencing the rise of niche markets in agriculture?",
+            "How do collaborations and partnerships contribute to success in niche markets?",
+            "What innovations have been successful in tapping into niche markets?"
+        ]
+    },
+    "User 3: Agricultural Policy Maker": {
+        "Task 1: Shaping Sustainable Agriculture Policies": [
+            "How can policies encourage the adoption of organic practices among farmers?",
+            "What role do government incentives play in promoting sustainable practices?",
+            "How does policy affect small-scale versus large-scale farming operations?",
+            "What evidence-based strategies work best for policy implementation?"
+        ],
+        "Task 2: Supporting Small Farms": [
+            "How can policy support the economic viability of small farms?",
+            "What are the barriers to market access for small farmers?",
+            "How do regulations impact small farm operations and growth?",
+            "What success stories can be used as models for policy development?"
+        ],
+        "Task 3: Promoting Farm Resilience": [
+            "How can agricultural education initiatives enhance farm resilience?",
+            "What policies promote diversity and innovation in agricultural practices?",
+            "How can policy balance environmental conservation with agricultural productivity?",
+            "What resources are necessary for successful policy-driven resilience?"
+        ],
+        "Task 4: Addressing Food Security": [
+            "What are the challenges of ensuring access to nutritious food?",
+            "How do agricultural policies intersect with public health initiatives?",
+            "How can policy address the food supply chain vulnerabilities?",
+            "What role does technology play in achieving food security goals?"
+        ],
+        "Task 5: Enhancing Rural Development": [
+            "How does agriculture impact rural community well-being?",
+            "What policies stimulate economic growth in rural areas through agriculture?",
+            "How can infrastructure improvements support agricultural development?",
+            "What partnerships enhance rural development through agriculture?"
+        ]
+    },
+    "User 4: Environmental Scientist": {
+        "Task 1: Assessing the Environmental Impact of Farming Practices": [
+            "What are the main sources of agricultural pollution, and how can they be mitigated?",
+            "What role does organic matter play in soil carbon sequestration?",
+            "How can farming contribute to the conservation of natural resources?",
+            "What practices are key to protecting ecosystems adjacent to farmlands?"
+        ],
+        "Task 2: Studying the Effects of Beekeeping on Ecosystems": [
+            "What are the ecological benefits of maintaining healthy bee populations?",
+            "How do agricultural landscapes affect bee habitats and forage availability?",
+            "What are the environmental impacts of beekeeping practices?",
+            "How do beekeeping operations sustain or disrupt local biodiversity?"
+        ],
+        "Task 3: Evaluating Climate Change Mitigation Strategies": [
+            "How can soil health practices mitigate climate change effects?",
+            "How does climate change impact farming and associated ecosystems?",
+            "What is the role of forests and grasslands in climate regulation?",
+            "How can environmental policies align with agricultural sustainability goals?"
+        ],
+        "Task 4: Researching Sustainable Agricultural Innovations": [
+            "How can precision agriculture promote environmental health?",
+            "What is the potential of agroforestry in sustainable farming systems?",
+            "How can scientific research contribute to agricultural innovation?",
+            "What are the barriers and opportunities for implementing sustainable technologies?"
+        ],
+        "Task 5: Analyzing Soil Conservation Practices": [
+            "What are the benefits of cover cropping for soil conservation?",
+            "How do different soil management practices influence erosion rates?",
+            "What practices enhance the biological activity of soils?",
+            "What are the long-term impacts of soil conservation on farm productivity?"
+        ]
+    },
+    "User 5: Organic Agriculture Advocate": {
+        "Task 1: Promoting Organic Farming Practices": [
+            "What are the primary benefits of organic farming for farmers and consumers?",
+            "How can advocates encourage farmers to transition to organic practices?",
+            "What are the consumer perceptions surrounding organic farming?",
+            "How do organic standards ensure product quality and safety?"
+        ],
+        "Task 2: Educating Stakeholders on Benefits of Organic Products": [
+            "How can schools integrate organic education into their curricula?",
+            "What are the health benefits associated with consuming organic foods?",
+            "How can marketing campaigns highlight the environmental benefits of organic agriculture?",
+            "What role do organic certifications play in consumer trust?"
+        ],
+        "Task 3: Building Networks and Collaboration": [
+            "What collaborative efforts have successfully promoted organic agriculture?",
+            "How can partnerships enhance the distribution and availability of organic products?",
+            "What forums or conferences best facilitate information sharing in organic communities?",
+            "How do international collaborations impact organic agriculture advancements?"
+        ],
+        "Task 4: Addressing Challenges in Organic Agriculture": [
+            "How can policy changes better support organic farming initiatives?",
+            "How does market demand influence organic farming production levels?",
+            "What are the key research gaps in understanding organic farming impacts?",
+            "How can organic farmers adapt to climate change risks?"
+        ],
+        "Task 5: Advocating for Policy Change": [
+            "How can advocates influence policy development effectively?",
+            "What role does organic certification play in policy advocacy?",
+            "How can policymakers balance organic and conventional farming interests?",
+            "What is the global impact of policies promoting organic agriculture?"
+        ]
+    }
+}

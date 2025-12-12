@@ -1,0 +1,116 @@
+[
+    {
+        "passage": "All creation rejoices because a few tears of mother Nature have brought joy and happiness to all living beings, from the smallest blade of grass to the majestic palm; from the creeping worm to man, who proudly titles himself the lord of creation. Yucatan has no rich metallic mines, but its wealth of vegetable productions is immense. Large forests of mahogany, cedar, zapotillo trees cover vast extents of land in the eastern and southern portions of the peninsula; whilst patches of logwood and mora, many miles in length, grow near the coast. The wood is to-day cut down and exported by the Indians of Santa Cruz through their agents at Belize. Coffee, vanilla, tobacco, india-rubber, rosins of various kinds, copal in particular, all of good quality, abound in the country, but are not cultivated on account of its unsettled state; the Indians retaining possession of the most fertile territories where these rich products are found. The whites have been reduced to the culture of the Hennequen plant (agave sisalensis) in order to subsist. It is the only article of commerce that grows well on the stony soil to which they are now confined. The filament obtained from the plant, and the objects manufactured from it constitute the principal article of export; in fact the only source of wealth of the Yucatecans.",
+        "entities": [
+          "Yucatán", "Mother Nature",
+          "metallic mines", "wealth", "vegetable", "forests", "mahogany", "cedar", "zapotillo trees",
+          "coast", "logwood", "mora", "wood", "Indians of Santa Cruz",
+          "Belize", "coffee", "vanilla", "tobacco", "india-rubber", "rosins", "copal",
+          "Indians", "The whites of Yucatán", "Hennequen plant", "agave sisalensis",
+          "Yucatecans"
+        ],
+        "hyperpropositions": [
+          {
+            "proposition": "In the Yucatán, Mother Nature's tears bring joy from the blade of grass to the majestic palm, from the creeping worm to man.",
+            "entities": ["Yucatán", "Mother Nature"]
+          },
+          {
+            "proposition": "The Yucatán has no rich metallic mines.",
+            "entities": ["Yucatán", "metallic mines"]
+          },
+          {
+            "proposition": "The Yucatán possesses immense wealth in its vegetable productions.",
+            "entities": ["Yucatán", "wealth", "vegetable"]
+          },
+          {
+            "proposition": "The Yucatán has large forests of mahogany, cedar, and zapotillo trees that cover its eastern and southern portions.",
+            "entities": ["Yucatán", "forests", "mahogany", "cedar", "zapotillo trees"]
+          },
+          {
+            "proposition": "Near the coast of the Yucatán, there are patches of logwood and mora that extend for many miles.",
+            "entities": ["Yucatán", "coast", "logwood", "mora"]
+          },
+          {
+            "proposition": "Wood from the Yucatán is cut down by the Indians of Santa Cruz and exported through their agents at Belize.",
+            "entities": ["Yucatán", "wood", "Indians of Santa Cruz", "Belize"]
+          },
+          {
+            "proposition": "The Yucatán abounds in coffee, vanilla, tobacco, india-rubber, rosins, and copal, but these are not cultivated because of political unrest.",
+            "entities": ["Yucatán", "coffee", "vanilla", "tobacco", "india-rubber", "rosins", "copal"]
+          },
+          {
+            "proposition": "In the Yucatán, the Indians retain possession of the most fertile territories where valuable products are found.",
+            "entities": ["Yucatán", "Indians"]
+          },
+          {
+            "proposition": "In the Yucatán, the whites have been reduced to cultivating the Hennequen plant in order to subsist.",
+            "entities": ["Yucatán", "The whites of Yucatán", "Hennequen plant"]
+          },
+          {
+            "proposition": "The Hennequen plant is also known as agave sisalensis.",
+            "entities": ["Hennequen plant", "agave sisalensis"]
+          },
+          {
+            "proposition": "The Hennequen plant grows well on the stony soil to which the whites in the Yucatán are now confined.",
+            "entities": ["Hennequen plant", "The whites of Yucatán", "Yucatán"]
+          },
+          {
+            "proposition": "The filament obtained from the Hennequen plant and the manufactured objects made from it form the principal article of export from the Yucatán.",
+            "entities": ["Hennequen plant", "Yucatán"]
+          },
+          {
+            "proposition": "The products of the Hennequen plant are the only significant source of wealth for the Yucatecans.",
+            "entities": ["Hennequen plant", "wealth", "Yucatecans"]
+          }
+        ]
+      },
+      {
+        "passage": "From 1875 to 1877 he was Chief Commissioner of Oude. The position Inglis made for himself in India, in yet early life, is to be gauged by a letter written in 1846 by Sir Frederick Currie, who was then Commissioner of Lahore. He had married Mrs. Inglis’ sister Katherine. ‘We have applied to Mr. Thomasen (Lieutenant-Governor of the N.W.P.) for young civilians for the work which is now before us, and we must take several with us into the Punjab. One whom he strongly recommends is Inglis at Agra. I will copy what he says about him. Sir Henry Hardinge (the Governor-General) has not seen the letter yet. “Another man who might suit you is Inglis at Agra; an assistant on £400, acting as joint magistrate which gives him one hundred more. Active, energetic, conciliating to natives, fine-tempered, and thoroughly honest in all his works. I am not sure that he is not as good a man as you can have. I shall be glad to hear that you send for him.”’ The letter was addressed to Inglis’ eighteen-year-old bride, and Sir Frederick goes on:-- ‘Shall I send for him or not? I am almost sure I should have done so, had I not heard of your getting hold of his heart. We don’t want heartless men, but really you have no right to keep such a man from us.'",
+        "entities": [
+          "Inglis", "Chief Commissioner", "Oude", "Sir Frederick Currie", "Commissioner", "Lahore",
+          "Sir Frederick Currie's letter", "Inglis' bride", "Katherine", "Mr. Thomasen", "Lieutenant-Governor",
+          "N.W.P.", "Agra", "assistant", "joint magistrate", "Sir Henry Hardinge", "Governor-General", "Punjab"],
+        "hyperpropositions": [
+          {
+            "proposition": "From 1875 to 1877, Inglis served as Chief Commissioner of Oude.",
+            "entities": ["Inglis", "Chief Commissioner", "Oude"]
+          },
+          {
+            "proposition": "In 1846, Sir Frederick Currie, then Commissioner of Lahore, wrote a letter recommending Inglis.",
+            "entities": ["Sir Frederick Currie", "Commissioner", "Lahore", "Sir Frederick Currie's letter", "Inglis"]
+          },
+          {
+            "proposition": "Sir Frederick Currie's letter was addressed to Inglis’ eighteen-year-old bride.",
+            "entities": ["Sir Frederick Currie's letter", "Inglis' bride"]
+          },
+          {
+            "proposition": "Sir Frederick Currie married Katherine, who was Mrs. Inglis’ sister.",
+            "entities": ["Sir Frederick Currie", "Katherine", "Inglis"]
+          },
+          {
+            "proposition": "Mr. Thomasen was Lieutenant-Governor of the N.W.P.",
+            "entities": ["Mr. Thomasen", "Lieutenant-Governor", "N.W.P."]
+          },
+          {
+            "proposition": "Mr. Thomasen recommended Inglis at Agra for work in the Punjab.",
+            "entities": ["Mr. Thomasen", "Inglis", "Agra", "Punjab"]
+          },
+          {
+            "proposition": "Sir Henry Hardinge was the Governor-General and had not seen Sir Frederick Currie's letter yet.",
+            "entities": ["Sir Henry Hardinge", "Governor-General", "Sir Frederick Currie's letter"]
+          },
+          {
+            "proposition": "At the time of Sir Frederick Currie's letter, Inglis was an assistant on £400, acting as joint magistrate with £100 more.",
+            "entities": ["Sir Frederick Currie's letter", "Inglis", "assistant", "joint magistrate"]
+          },
+          {
+            "proposition": "Sir Frederick Currie described Inglis as active, energetic, conciliating to natives, fine-tempered, and honest.",
+            "entities": ["Sir Frederick Currie", "Inglis"]
+          },
+          {
+            "proposition": "Sir Frederick Currie considered sending for Inglis but hesitated because Inglis' bride had won his heart.",
+            "entities": ["Sir Frederick Currie", " Inglis' bride"]
+          }
+        ]
+      }
+]

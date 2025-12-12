@@ -1,0 +1,162 @@
+{
+    "User 1: Financial Analyst": {
+        "Task 1: Evaluate the financial health of the companies mentioned in the dataset.": [
+            "How is the debt structure of these companies discussed in the credit agreements and indentures?",
+            "What covenants are specified in the loan and credit agreements that impact financial performance?",
+            "How do the projections and budgets in the documents reflect financial stability?",
+            "What are the recurring themes in financial strategies highlighted in the strategic sections?"
+        ],
+        "Task 2: Assess investment opportunities based on the merger and acquisition agreements outlined.": [
+            "What are the potential synergies from the discussed mergers and acquisitions?",
+            "What risks are highlighted in the documentation regarding upcoming mergers?",
+            "How might these mergers affect the equity structure of the concerned companies?",
+            "What floors or caps are placed on any convertible securities resulting from these transactions?"
+        ],
+        "Task 3: Analyze risk assessment and management policies in legal documents.": [
+            "What indemnification clauses are invoked to mitigate risks?",
+            "How are catastrophe-related risks addressed in the contracts?",
+            "What guidelines are set for environmental risks and compliance?",
+            "Which industry risks are most frequently mentioned in these agreements?"
+        ],
+        "Task 4: Interpret the implications of agreements on future earnings.": [
+            "How are deferred payments likely to impact future cash flows?",
+            "Are there restrictions that limit financial growth potential?",
+            "How do stock issuance and buyback agreements influence earnings per share?",
+            "What role do asset sales play in projected earnings growth?"
+        ],
+        "Task 5: Review the compliance and regulatory framework described.": [
+            "How do these companies address changes in regulatory environments?",
+            "What specific regulatory bodies do these companies interact with most frequently?",
+            "How are international regulations integrated into compliance strategies?",
+            "What penalties or liabilities are outlined for non-compliance?"
+        ]
+    },
+    "User 2: Corporate Lawyer": {
+        "Task 1: Review contract terms and clauses for potential legal implications.": [
+            "How are intellectual property rights addressed in licensing agreements?",
+            "What confidentiality clauses are included, and how do they differ between documents?",
+            "What are the termination rights and penalties for breach of contract?",
+            "How are non-compete clauses structured in employment contracts?"
+        ],
+        "Task 2: Identify and analyze merger and acquisition provisions.": [
+            "How are closing conditions delineated in various transaction documents?",
+            "What regulatory approvals are required, and how are they described contractually?",
+            "How are earn-out arrangements documented?",
+            "Which dispute resolution mechanisms are preferred in these mergers?"
+        ],
+        "Task 3: Examine the impact of loan and credit agreements on corporate governance.": [
+            "How do board of directors' roles alter with specified credit agreements?",
+            "What are voting rights as influenced by cross-ownership terms?",
+            "How are management responsibilities impacted during financing events?",
+            "How do debt covenants trigger renegotiation of governance terms?"
+        ],
+        "Task 4: Evaluate compliance with applicable laws and regulations.": [
+            "What sections address compliance with environmental regulations?",
+            "How is data protection tackled in consideration of new privacy laws?",
+            "What specific provisions are included to minimize antitrust scrutiny?",
+            "What efforts are made to ensure the legality of international operations?"
+        ],
+        "Task 5: Assess the risks of non-compliance in contractual obligations.": [
+            "What are the litigation risks associated with the breaches mentioned?",
+            "How is potential liability for contract breaches quantified?",
+            "How do insurance clauses mitigate legal exposures?",
+            "What are the consequences of failing to fulfill industry-specific conditions?"
+        ]
+    },
+    "User 3: Investment Banker": {
+        "Task 1: Craft financial models based on merger agreements.": [
+            "How does value creation through mergers align with projected growth rates?",
+            "What cost synergies and revenue enhancements are expected post-merger?",
+            "How are integration costs estimated and incorporated into financial models?",
+            "What assumptions underlie pro forma financial statements?"
+        ],
+        "Task 2: Evaluate financial viability regarding debt instruments.": [
+            "What covenants are most stringent, and how might they limit financial flexibility?",
+            "How do maturity profiles relate to long-term strategic objectives?",
+            "What protections exist for debtholders in the event of default?",
+            "How does the amortization schedule influence liquidity positions?"
+        ],
+        "Task 3: Explore potential equity financing strategies.": [
+            "How are public offerings structured, and what premiums are anticipated?",
+            "What role does book-building play in the coordinated equity raise?",
+            "How is dilution addressed in shareholder agreements?",
+            "What is the expected market reaction to equity strategies outlined?"
+        ],
+        "Task 4: Provide advisory on restructuring initiatives.": [
+            "How do covenants compel asset sales or corporate divestitures during restructuring?",
+            "What means are proposed for operational restructuring to improve EBITDA?",
+            "What are proposed timelines and phases for the restructuring process?",
+            "How is stakeholder alignment maintained throughout restructuring stages?"
+        ],
+        "Task 5: Identify trends in capital allocation discussed within documents.": [
+            "How do these documents characterize investment in research and development?",
+            "What capital allocation strategies are consistent with shareholder return optimization?",
+            "What analyses of previous capital deployment are accounted for in decision-making?",
+            "How do agreements support ongoing capital reinvestment in core operations?"
+        ]
+    },
+    "User 4: Regulatory Compliance Officer": {
+        "Task 1: Review internal and external compliance requirements outlined in agreements.": [
+            "What internal controls are recommended to prevent compliance breaches?",
+            "How is compliance to anti-corruption treaties integrated?",
+            "How do contracts ensure adherence to labor laws across regions?",
+            "What is the process for reporting compliance status within agreements?"
+        ],
+        "Task 2: Monitor conformity with the latest industry-specific compliance standards.": [
+            "How are industry best practices incorporated within the legal frameworks?",
+            "How often are internal reviews prescribed by the agreements?",
+            "What measures are implemented to close compliance gaps?",
+            "How does the documentation align with audit requirements?"
+        ],
+        "Task 3: Evaluate the effectiveness of risk management programs.": [
+            "How are risk mitigation strategies executed according to the documents?",
+            "What contingency plans have been articulated in the contracts?",
+            "How are the risks of data breaches managed contractually?",
+            "How is enterprise risk defined within the agreements?"
+        ],
+        "Task 4: Assess the validity of environmental compliance measures.": [
+            "How is waste reduction addressed in environmentally sensitive areas?",
+            "What provisions ensure the fulfillment of reporting obligations?",
+            "How are suppliers encouraged to meet green procurement standards?",
+            "What are the repercussions of failing to meet environmental compliance?"
+        ],
+        "Task 5: Understand the implications of non-compliance on corporate reputation.": [
+            "How are crisis management strategies woven into compliance failures?",
+            "What precedents are there for managing damage control post-breach?",
+            "What best practices are recommended for maintaining public confidence?",
+            "How is stakeholder engagement managed during compliance incidents?"
+        ]
+    },
+    "User 5: Strategic Consultant": {
+        "Task 1: Develop strategic initiatives based on the competitive positioning within the dataset.": [
+            "What innovative products or services are highlighted for competitive advantage?",
+            "How do strategic alliances affect competitive dynamics?",
+            "How are industry disruptors addressed in strategic planning?",
+            "What potential market expansions are considered strategically viable?"
+        ],
+        "Task 2: Investigate long-term growth prospects discussed.": [
+            "How are emerging markets integrated into growth narratives?",
+            "What innovation-led growth strategies are articulated?",
+            "How do synergies from mergers support long-term growth?",
+            "What role does technological advancement play in these growth plans?"
+        ],
+        "Task 3: Identify operational improvements and efficiencies.": [
+            "How is production optimization approached contractually?",
+            "What continuous improvement models are leveraged in the documents?",
+            "How are cost-reduction initiatives structured and what are their implications?",
+            "How do operational changes support sustainability initiatives?"
+        ],
+        "Task 4: Evaluate stakeholder management and relations strategies.": [
+            "How are communication strategies defined for stakeholder engagement?",
+            "Which stakeholder engagement practices are most successful according to the agreements?",
+            "How are conflicts of interest identified and resolved with stakeholders?",
+            "How are support and buy-in from stakeholders garnered for strategic shifts?"
+        ],
+        "Task 5: Explore resource allocation decisions impacting strategic initiatives.": [
+            "What capital expenditures are highlighted for strategic projects?",
+            "How is personnel management tied to strategic success metrics?",
+            "How is resource flexibility preserved for unanticipated opportunities?",
+            "What trade-offs are detailed in resource allocation decisions?"
+        ]
+    }
+}

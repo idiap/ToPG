@@ -1,0 +1,158 @@
+[
+    {
+        "passage": "Clock tower\nClock tower stands in the historic center of the Grand Bazaar, at a place known as the \u201cField of the Clock\u201c. According to the Islamic calendar it was built in the year 1002, which is 1597 in the Gregorian calendar. As a town experiencing rapid economic development, Gjakova acquired its clock tower shortly after the construction of the Hadum\u2019s Mosque. The building was destroyed during the Balkan wars (1912). The belfry was removed and transported to Montenegro. A new tower close to the foundations of the previous clock tower was erected recently, with the intention of recreating the original building on the basis of archived photographic material. The tower is a square building with 4.10 m long sides, reaching a height of about 30 m. The construction is mainly of stone, with the walls up to the observation area in a combination of stone and brick: the part of the tower above the observation area is wooden. The roof is covered with lead. On the western facade of this reconstructed tower are some inscribed stones from the original tower. See also Bazaar Gjakova Kosovo.",
+        "entities": [
+            "clock tower",
+            "Grand Bazaar",
+            "Gjakova",
+            "Field of the Clock",
+            "Islamic calendar",
+            "Gregorian calendar",
+            "Hadum’s Mosque",
+            "Balkan Wars",
+            "belfry",
+            "Montenegro",
+            "reconstructed clock tower",
+            "photographic material",
+            "square building",
+            "height",
+            "stone",
+            "walls",
+            "observation area",
+            "brick",
+            "wood",
+            "roof",
+            "lead",
+            "western facade",
+            "inscribed stones"
+        ],
+        "hyperpropositions": [
+            {
+                "proposition": "The clock tower stands in the historic center of the Grand Bazaar of Gjakova in a place known as the “Field of the Clock.”",
+                "entities": [
+                    "clock tower",
+                    "Grand Bazaar of Gjakova",
+                    "Field of the Clock"
+                ]
+            },
+            {
+                "proposition": "According to the Islamic calendar, the clock tower of Gjakova was built in the year 1002.",
+                "entities": [
+                    "Islamic calendar",
+                    "clock tower",
+                    "Gjakova"
+                ]
+            },
+            {
+                "proposition": "Year 1002 is the Islamic calendar correspond to 1597 in the Gregorian calendar.",
+                "entities": [
+                    "Islamic calendar",
+                    "Gregorian calendar"
+                ]
+            },
+            {
+                "proposition": "Gjakova acquired the clock tower shortly after the construction of Hadum’s Mosque.",
+                "entities": [
+                    "Gjakova",
+                    "clock tower",
+                    "Hadum’s Mosque"
+                ]
+            },
+            {
+                "proposition": "The original clock tower of Gjakova was destroyed during the Balkan Wars in 1912.",
+                "entities": [
+                    "clock tower",
+                    "Gjakova",
+                    "Balkan Wars"
+                ]
+            },
+            {
+                "proposition": "The belfry of the original clock tower of Gjakova was removed and transported to Montenegro.",
+                "entities": [
+                    "belfry",
+                    "clock tower",
+                    "Gjakova",
+                    "Montenegro"
+                ]
+            },
+            {
+                "proposition": "A new clock tower was erected close to the foundations of the previous one in Gjakova.",
+                "entities": [
+                    "clock tower",
+                    "Gjakova"
+                ]
+            },
+            {
+                "proposition": "The reconstructed clock tower of Gjakova was built based on archived photographic material.",
+                "entities": [
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "archived photographic material"
+                ]
+            },
+            {
+                "proposition": "The reconstructed clock tower of Gjakova is a square building with 4.10-meter-long sides.",
+                "entities": [
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "square building"
+                ]
+            },
+            {
+                "proposition": "The reconstructed clock tower of Gjakova reaches a height of about 30 meters.",
+                "entities": [
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "height"
+                ]
+            },
+            {
+                "proposition": "The construction of the reconstructed clock tower of Gjakova is mainly of stone.",
+                "entities": [
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "stone"
+                ]
+            },
+            {
+                "proposition": "The walls of the reconstructed clock tower of Gjakova up to the observation area are a combination of stone and brick.",
+                "entities": [
+                    "walls",
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "observation area",
+                    "stone",
+                    "brick"
+                ]
+            },
+            {
+                "proposition": "The part of the reconstructed clock tower of Gjakova above the observation area is made of wood.",
+                "entities": [
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "observation area",
+                    "wood"
+                ]
+            },
+            {
+                "proposition": "The roof of the reconstructed clock tower of Gjakova is covered with lead.",
+                "entities": [
+                    "roof",
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "lead"
+                ]
+            },
+            {
+                "proposition": "The western facade of the reconstructed clock tower of Gjakova contains some inscribed stones from the original tower.",
+                "entities": [
+                    "western facade",
+                    "reconstructed clock tower",
+                    "Gjakova",
+                    "inscribed stones",
+                    "original tower"
+                ]
+            }
+        ]
+    }
+]

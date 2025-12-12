@@ -1,0 +1,49 @@
+[
+    {
+        "passage": "Spark's machine learning library, MLlib, has been under heavy development since its inception, and unlike the Spark core, it is still not in a fully stable state with regard to its overall API and design. As of Spark Version 1.2.0, a new, experimental API for MLlib has been released under the `ml` package (whereas the current library resides under the `mllib` package). This new API aims to enhance the APIs and interfaces for models as well as feature extraction and transformation so as to make it easier to build pipelines that chain together steps that include feature extraction, normalization, dataset transformations, model training, and cross-validation. In the upcoming chapters, we will only cover the existing, more developed MLlib API, since the new API is still experimental and may be subject to major changes in the next few Spark releases. Over time, the various feature-processing techniques and models that we will cover will simply be ported to the new API; however, the core concepts and most underlying code will remain largely unchanged.",
+        "entities": [
+            "Spark",
+            "machine learning library",
+            "MLlib",
+            "API",
+            "Spark core",
+            "Spark Version 1.2.0",
+            "feature extraction",
+            "transformation",
+            "pipelines",
+            "normalization",
+            "dataset transformations",
+            "model training",
+            "cross-validation"
+        ]
+    },
+    {
+        "passage": "It is common to use the **Root Mean Squared Error** ( **RMSE** ), which is just the square root of the MSE metric. This is somewhat more interpretable, as it is in the same units as the underlying data (that is, the ratings in this case). It is equivalent to the standard deviation of the differences between the predicted and actual ratings. ### Note The full list of transformations and further information on each of them is provided in the Spark documentation at <http://spark.apache.org/docs/latest/streaming-programming-guide.html#transformations-on-dstreams>.",
+        "entities": [
+            "Root Mean Squared Error",
+            "RMSE",
+            "MSE metric",
+            "standard deviation",
+            "transformations",
+            "Spark documentation"
+        ]
+    },
+    {
+        "passage": "### Tip\n\nIt is probably not surprising that the log transformation results in a better RMSLE performance for the linear model. As we are minimizing the squared error, once we have transformed the target variable to log values, we are effectively minimizing a loss function that is very similar to the RMSLE. This is good for Kaggle competition purposes, since we can more directly optimize against the competition-scoring metric.\n\n\nIn our example, the right singular vectors derived from computing the SVD will be equivalent to the principal components we have calculated. We can see that this is the case by first computing the SVD on our image matrix and comparing the right singular vectors to the result of PCA. As was the case with PCA, SVD computation is provided as a function on a distributed `RowMatrix`:\n\n    val svd = matrix.computeSVD(10, computeU = true)\n    println(s\"U dimension: (${svd.U.numRows}, ${svd.U.numCols})\")\n    println(s\"S dimension: (${svd.s.size}, )\")\n    println(s\"V dimension: (${svd.V.numRows}, ${svd.V.numCols})\")\n\nWe can see that SVD returns a matrix `U` of dimension 1055 x 10, a vector `S` of the singular values of length `10`, and a matrix `V` of the right singular vectors of dimension 2500 x 10:\n\n    **U dimension: (1055, 10)**\n    **S dimension: (10, )**\n    **V dimension: (2500, 10)**\n\nThe matrix `V` is exactly equivalent to the result of PCA (ignoring the sign of the values and floating point tolerance). We can verify this with a utility function to compare the two by approximately comparing the data arrays of each matrix:\n\n    def approxEqual(array1: Array[Double], array2: Array[Double], tolerance: Double = 1e-6): Boolean = {\n      // note we ignore sign of the principal component / singular vector elements\n      val bools = array1.zip(array2).map { case (v1, v2) => if (math.abs(math.abs(v1) - math.abs(v2)) > 1e-6) false else true }\n      bools.fold(true)(_ & _)\n    }\n\nWe will test the function on some test data:",
+        "entities": [
+            "log transformation",
+            "RMSLE performance",
+            "linear model",
+            "squared error",
+            "loss function",
+            "Kaggle competition",
+            "right singular vectors",
+            "SVD",
+            "principal components",
+            "PCA",
+            "image matrix",
+            "singular values",
+            "floating point tolerance"
+        ]
+    }
+]

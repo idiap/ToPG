@@ -1,0 +1,52 @@
+#
+# SPDX-FileCopyrightText: Copyright © 2025 Idiap Research Institute <contact@idiap.ch>
+#
+# SPDX-FileContributor: Maxime Delmas <maxime.delmas@idiap.ch>
+#
+# SPDX-License-Identifier: LicenseRef-Idiap
+#
+
+version = 1
+
+[[annotations]]
+path = "reproduce/data/indexing/demonstrations-indexing/**"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
+
+[[annotations]]
+path = "reproduce/data/questions-UltraDomain/**"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
+
+
+[[annotations]]
+path = "pyproject.toml"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
+
+[[annotations]]
+path = "uv.lock"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
+
+[[annotations]]
+path = ".pre-commit-config.yaml"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
+
+[[annotations]]
+path = ".gitignore"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2025 Idiap Research Institute <contact@idiap.ch>"
+SPDX-FileContributor = "Maxime Delmas <maxime.delmas@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-Idiap"
