@@ -8,7 +8,7 @@
 #
 -->
 
-TopG (Traversal Over Proposition Graph) is a hybrid RAG (Retrieval-Augmented Generation) framework that builds a graph from passages, entities, and propositions (facts). It supports three query modes: **naive** (single-shot retrieval), **local** (iterative multi-hop reasoning), and **global** (community-based decomposition and synthesis).
+TopG (Traversal Over Proposition Graphs) is a hybrid RAG (Retrieval-Augmented Generation) framework that builds a graph from passages, entities, and propositions (facts). It supports three query modes: **naive** (single-shot retrieval), **local** (iterative multi-hop reasoning), and **global** (community-based decomposition and synthesis).
 
 To reproduce the results from the paper, please go to the directory `reproduce`.
 
