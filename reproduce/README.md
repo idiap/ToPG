@@ -26,7 +26,7 @@ For HotPotQA, MusiQue, PopQA, and agriculture we did not use custom prompts for 
 First, create and configure the knowledge base:
 
 ```python
-from topg.topg import Topg
+from topg import Topg
 
 config_path = Topg.initialize(
     base_path="/path/to/kb",
@@ -40,7 +40,7 @@ Mount the system:
 
 ```python
 import yaml
-from topg.topg import Topg
+from topg import Topg
 
 with open(config_path, "r") as f:
     system_config = yaml.safe_load(f)
