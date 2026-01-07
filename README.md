@@ -27,6 +27,11 @@ To reproduce the results from the paper, please go to the directory `reproduce`.
 **Requirements:**
 - Python 3.10–3.14
 
+**Using `pip`**
+
+```bash
+pip install git+https://github.com/idiap/ToPG
+```
 **Environment:**
 Set your LLM API key:
 ```bash
