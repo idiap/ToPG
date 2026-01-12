@@ -8,6 +8,8 @@
 #
 -->
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.04859-b31b1b.svg)](https://www.arxiv.org/abs/2601.04859)
+
 TopG (Traversal Over Proposition Graphs) is a hybrid RAG (Retrieval-Augmented Generation) framework that builds a graph from passages, entities, and propositions (facts). It supports three query modes: **naive** (single-shot retrieval), **local** (iterative multi-hop reasoning), and **global** (community-based decomposition and synthesis).
 
 To reproduce the results from the paper, please go to the directory `reproduce`.
@@ -488,3 +490,21 @@ Here are some more parameters for the global mode. More details in the paper.
 - **`alpha`**: with feedback seetings (see paper) coefficient of the query embeddings (default: 1.0)
 - **`beta`**: with feedback seetings (see paper) coefficient of the selected proposition embeddings (default: 0.0)
 - **`gamma`**: with feedback seetings (see paper) coefficient of the discarded proposition embeddings (default: 0.0)
+
+
+
+## Citation
+:page_facing_up:
+If you found the paper and/or this repository useful, please consider citing our work: :+1:
+
+```bibtex
+@misc{delmas2026navigationalapproachcomprehensiverag,
+      title={A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs}, 
+      author={Maxime Delmas and Lei Xu and André Freitas},
+      year={2026},
+      eprint={2601.04859},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.04859}, 
+}
+```
