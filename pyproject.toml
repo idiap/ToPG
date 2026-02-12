@@ -3,7 +3,7 @@ name = "topg"
 version = "0.1.0"
 description = "topg RAG is a hybrid RAG (Retrieval-Augmented Generation) framework that builds a graph from passages, entities, and propositions. It supports three query modes: naive (single-shot retrieval), local (iterative multi-hop reasoning), and global (community-based decomposition and synthesis)."
 readme = "README.md"
-requires-python = ">=3.10,<3.14"
+requires-python = ">=3.10,<3.13"
 dependencies = [
     "accelerate>=1.6.0,<2",
     "chromadb>=1.0",
