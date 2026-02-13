@@ -447,13 +447,13 @@ Load previously exported data into a new or existing KB:
 
 ```python
 # Import passages
-system.load_passages_from_json(json_path="passages.json")
+system.load_passages_from_json(json_passages="passages.json")
 
 # Import hyperpropositions
-system.load_hyperpropositions_from_json(json_path="hyperpropositions.json")
+system.load_hyperpropositions_from_json(json_hyperpropositions="hyperpropositions.json")
 
 # Optionally import full documents (if exported separately)
-system.load_documents_from_json(json_path="documents.json")
+system.load_documents_from_json(json_documents="documents.json")
 
 # Reload graphs after import
 system.store.load_graphs()
