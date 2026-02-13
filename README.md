@@ -22,6 +22,7 @@ To reproduce the results from the paper, please go to the directory `reproduce`.
 - [Querying](#querying-naive-local-and-Global-modes)
 - [Export and Import](#export-and-import)
 - [Advanced settings and usage](#advanced-settings-and-usage)
+- [Notebook examples](#notebook-examples)
 ---
 
 ## Installation
@@ -491,6 +492,10 @@ Here are some more parameters for the global mode. More details in the paper.
 - **`beta`**: with feedback seetings (see paper) coefficient of the selected proposition embeddings (default: 0.0)
 - **`gamma`**: with feedback seetings (see paper) coefficient of the discarded proposition embeddings (default: 0.0)
 
+
+## Notebook examples
+
+In the notebook directory, you can find a set of examples with some *"How To"*. For now the first one give an example on how to integrate `ToPG` in a langchain Agent. See `agent_example.ipynb`.
 
 
 ## Citation
